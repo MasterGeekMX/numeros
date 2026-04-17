@@ -1,5 +1,2 @@
-# SoME3 Numbers
-This is an interactive article about how computers work with numbers that I made for [SoME3](https://some.3b1b.co).
-
-The interactive parts are made with [Lit](https://lit.dev),
-glued together via a simple esbuild-based bundler I made in about 2 hours.
+# SoME3 Números
+Esta es una traducción al Español del artículo interactivo de Mabi19, acerca de como las computadoras almacenan números. El trabajo original fué una entrada en la competencia Summer of Math Exposition 3, creada por el matemático Grant Sanderson: [SoME3](https://some.3b1b.co)
